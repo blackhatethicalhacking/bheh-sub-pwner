@@ -21,6 +21,8 @@ https://github.com/projectdiscovery/httpx
 
 # Usage
 
+chmod +x bheh-sub-pwner.sh
+
 ./bheh-sub-pwner.sh domains.txt
 
 # Credits:
