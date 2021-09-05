@@ -15,7 +15,7 @@ do
         do
                 echo "enumerating:" $var
                 echo "...in progress..." | lolcat
-                amass enum -passive -d $var > output_amass
+                amass enum -passive -v -d $var > output_amass
                 cat output_amass >> subs_amass
                 sublist3r -d $var  -o output_sublist3r
                 cat output_sublist3r >> subs_sublist3r
