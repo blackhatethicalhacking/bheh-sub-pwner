@@ -27,4 +27,4 @@ chmod +x bheh-sub-pwner.sh
 
 # Credits:
 
-This code is written by Black Hat Ethical Hacking, is free to use, and you can fork it, and expand it to perform better methodology and workflow!
+This code is written by Black Hat Ethical Hacking, is free to use, and you can fork it, and expand it to perform better methodology and workflow! - 2021
