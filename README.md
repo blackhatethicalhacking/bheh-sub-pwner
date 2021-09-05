@@ -1,6 +1,6 @@
 # BHEH-SUB-PWNER
 
-This bash script tool, will perform advanced subdomain enumeration, save the results, it will then probe the subdomains into urls, save the results in a separate file, it will then resolve all the subdomains into ip addresses and save the results separately.
+This bash script tool, will perform advanced subdomain enumeration using both Amass in Passive Mode, Sublist3r, save the results, it will then probe the subdomains into urls using httpx, save the results in a separate file, it will then resolve all the subdomains into ip addresses using a loop statement with hostname and grep/sed and save the results separately.
 
 # Requirements:
 
