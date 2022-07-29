@@ -27,4 +27,11 @@ chmod +x bheh-sub-pwner.sh
 
 # Credits:
 
-This code is written by Black Hat Ethical Hacking, is free to use, and you can fork it, and expand it to perform better methodology and workflow! - 2021
+This code is written by Black Hat Ethical Hacking, is free to use, and you can fork it, and expand it to perform better methodology and workflow! - 2022
+
+# Support
+
+If you would like to support us, you can always buy us coffee(s)! :-)
+
+<a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
