@@ -47,7 +47,7 @@ echo "++++ IP Addresses Saved under: ip_addr_sorted.txt" | lolcat
 sleep 1
 echo "Code written by Black Hat Ethical Hacking" | lolcat
 # Matrix effect
-echo "Exiting the Matrix for 5 seconds:" | toilet --metal -f term -F border
+echo "Entering the Matrix for 5 seconds:" | toilet --metal -f term -F border
 
 
 R='\033[0;31m'
